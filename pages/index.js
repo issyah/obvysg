@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 const inter = Inter({
   variable: "--font-inter",
-  subsets: ["Latin"],
+  subsets: ["latin"],
 });
 
 export default function Home() {
