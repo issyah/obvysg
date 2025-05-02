@@ -30,7 +30,9 @@ export default function Home() {
           priority
         />
         <div>
-          <p className="text-4xl font-black mb-2 block">We'll be right back.</p>
+          <p className="text-4xl font-black mb-2 block">
+            We&apos;ll be right back.
+          </p>
           <div className="block mt-8">
             <a
               className="p-4 border-2 hover:bg-teal-100 transition-all ease-in-out"
